@@ -1,5 +1,7 @@
 # A Simple CLI Tool to open HTML file
 
+[![Build Status](https://travis-ci.org/mimikun/go-anyopen.svg?branch=master)](https://travis-ci.org/mimikun/go-anyopen)
+
 ## Overview
 go-anyopen is CLI Tool to open HTML file.
 
