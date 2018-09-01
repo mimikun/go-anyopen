@@ -9,6 +9,7 @@ urlopen is CLI Tool to open HTML file.
 - Open in Chrome
 - Open in Firefox
 - Open in Safari
+- Open in Vivaldi
 
 ## Installation
 
