@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/mimikun/go-anyopen/cmd"
+	"github.com/mimikun/urlopen/cmd"
 )
 
 func main() {
